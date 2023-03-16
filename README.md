@@ -8,5 +8,10 @@
 
 **Day2 of MachineLearningDeepLearning**
 
-- **Text Preprocessing:** It is a crucial step that involves cleaning and transforming raw text data into a format that can be easily analyzed and understood by machine learning models. Today I have learned more about preprocessing steps like One Hot Encoding (OHE), Bag of Words, N-grams and implemented them in code. I hope you will gain some insights and hope you will also spend time learning the topics. Excited about the days ahead ! 
+- **Text Preprocessing:** It is a crucial step that involves cleaning and transforming raw text data into a format that can be easily analyzed and understood by machine learning models. Today I have learned more about preprocessing steps like One Hot Encoding (OHE), Bag of Words, N-grams and implemented them in code. Here, I have shared the notes about text representation techniques in the snapshot and hope you will also spend time learning the topics. Excited about the days ahead ! 
 ![Images](https://github.com/regmi-saugat/MachineLearning_DeepLearning/blob/main/Images/Day%20-%202.png)
+
+**Day3 of MachineLearningDeepLearning**
+
+- **Text Representation:** It is the process of converting raw text data into structured format that can be analyzed and processed by machine learning algorithms and goal is to capture meaning and structure of text data in a way that enables the ML algorithm to make accurate predictions or classifications. Today I learned about preprocessing steps, One Hot Encoding (OHE), TF–IDF, Word Embedding,Word2Vec, CBOW, skip grams, also implemented them in code. And explored Gensim library. Here, I have shared the notes about text representation techniques in the snapshot and hope you will also spend time learning the topics. Excited about the days ahead ! 
+![Images](https://github.com/regmi-saugat/MachineLearning_DeepLearning/blob/main/Images/Day%20-%203.png)
