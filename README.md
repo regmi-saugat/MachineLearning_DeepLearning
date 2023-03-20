@@ -18,3 +18,12 @@
 
 **Day5 of MachineLearningDeepLearning**
 - **Recurrent Neural Network:** A recurrent neural network (RNN) is a type of artificial neural network that is designed to process sequential data, where the current input depends not only on the current time step but also on the previous inputs. RNNs can be used for a variety of tasks, including language modeling, speech recognition, and image captioning. Today I learned about types of RNN, Forward and Backward Propagation in RNN, LSTM RNN, and its architecture, and a few more topics. I hope you will gain some insights and hope you will also spend time learning the topics. Excited about the days ahead! 
+
+**Day6 of MachineLearningDeepLearning**
+- **Sequence to Sequence Learning:** A Seq2Seq is a type of neural network architecture used for tasks involving sequential data like machine translation, text summarization, etc. The major components of Seq2Seq are: Encoder and Decoder. Today I learned about Seq2Seq Learning, Encoder, Decoder, Problems with encoder & decoder, as well as it's solution. Also today I read two research paper. I hope you will gain some insights and hope you will also spend time learning the topics. Excited about the days ahead! 
+- Paper:
+  - [Sequence to Sequence Learning with Neural Networks](https://proceedings.neurips.cc/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf)
+  - [NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE](https://arxiv.org/pdf/1409.0473.pdf)
+
+![Images](https://github.com/regmi-saugat/MachineLearning_DeepLearning/blob/main/Images/Day%20-%206(a).png)
+![Images](https://github.com/regmi-saugat/MachineLearning_DeepLearning/blob/main/Images/Day%20-%206(b).png)
