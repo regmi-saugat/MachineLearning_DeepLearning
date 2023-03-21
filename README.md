@@ -27,3 +27,10 @@
 
 ![Images](https://github.com/regmi-saugat/MachineLearning_DeepLearning/blob/main/Images/Day%20-%206(a).png)
 ![Images](https://github.com/regmi-saugat/MachineLearning_DeepLearning/blob/main/Images/Day%20-%206(b).png)
+
+**Day7 of MachineLearningDeepLearning**
+- Attention is all you need" is a newer approach that has shown promising results in machine translation and other natural language processing tasks. It relies solely on self-attention mechanisms and does not use any recurrent or convolutional neural networks. This approach has several advantages, such as improved parallelism and reduced computation time, and has achieved state-of-the-art results on several benchmarks. Today, I acquired knowledge on Encoder, Decoder, Seq2Seq Learning, self-attention, embedding layer, and positional encoding. Additionally, I read the paper "Attention is All You Need", although I struggled to comprehend most of it, I gained a theoretical understanding of its content. I am planning to apply this acquired knowledge in coding tomorrow. Excited about the days ahead!
+- Reference:
+  - [The Illustrated Transformers](https://jalammar.github.io/illustrated-transformer/)
+
+![Images](https://github.com/regmi-saugat/MachineLearning_DeepLearning/blob/main/Images/Day%20-%207.png)
