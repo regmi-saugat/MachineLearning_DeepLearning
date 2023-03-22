@@ -34,3 +34,13 @@
   - [The Illustrated Transformers](https://jalammar.github.io/illustrated-transformer/)
 
 ![Images](https://github.com/regmi-saugat/MachineLearning_DeepLearning/blob/main/Images/Day%20-%207.png)
+
+**Day8 of MachineLearningDeepLearning**
+- The Transformer model consists of an encoder and a decoder, both of which use multi-head self-attention layers and feedforward neural networks. The Transformer architecture relies exclusively on self-attention mechanisms to process input sequences and produce output sequences, without any recurrent or convolutional layers. Today I did revised all the previous topics which I have read. Here I have presented the implementation of Pytorch [Transformers]((https://arxiv.org/pdf/1706.03762.pdf)) from Scratch. PS: I usually work with Tensorflow, so I'm not very familiar with PyTorch. However, today I enjoyed writing code with PyTorch. Excited about the days ahead !
+- Reference:
+  - [Aladdin Persson](https://www.youtube.com/watch?v=U0s0f995w14)
+  
+![Images](https://github.com/regmi-saugat/MachineLearning_DeepLearning/blob/main/Images/Day%20-%208(a).png)
+![Images](https://github.com/regmi-saugat/MachineLearning_DeepLearning/blob/main/Images/Day%20-%208(b).png)
+![Images](https://github.com/regmi-saugat/MachineLearning_DeepLearning/blob/main/Images/Day%20-%208(c).png)
+![Images](https://github.com/regmi-saugat/MachineLearning_DeepLearning/blob/main/Images/Day%20-%208(d).png)
