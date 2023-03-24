@@ -49,3 +49,9 @@
 -  Natural Language Processing typically uses large bodies of linguistic data, or corpora. A text corpus is a large body of text. In my MachineLearning DeepLearning journey, from today I have started reading [Natural Language Processing with Python](https://www.nltk.org/book/) book where I learned basics of NLP and also I explored Gutenberg Corpus, Brown Corpus, Returs Corpus, Inaugural Address Corpus & Corpora in Other Languages & also explored NLTK library. Here, I have shown how to access corpora using NLTK in a simple way. I hope you will gain some insights and hope you will also spend time learning the topics. Excited about the days ahead! 
 
 ![Images](https://github.com/regmi-saugat/MachineLearning_DeepLearning/blob/main/Images/Day%20-%209.png)
+
+**Day10 of MachineLearningDeepLearning**
+- The most important source of texts is undoubtedly the Web. It's convenient to have existing text collections to explore. On my journey of MachineLearningDeepLearning, Today I have learned about WordNet, The WordNet Hierarchy, lexical relations, simantic similarity, ways to processing the raw text (dealing with HTML, Processing Search Engine Results, Processing RSS Feeds). Here, I have presented the ways to process the raw text from web. 
+I hope you will gain some insights and hope you will also spend time learning the topics. Excited about the days ahead! 
+
+![Images](https://github.com/regmi-saugat/MachineLearning_DeepLearning/blob/main/Images/Day%20-%2010.png)
