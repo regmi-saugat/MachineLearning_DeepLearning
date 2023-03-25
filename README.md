@@ -55,3 +55,8 @@
 I hope you will gain some insights and hope you will also spend time learning the topics. Excited about the days ahead! 
 
 ![Images](https://github.com/regmi-saugat/MachineLearning_DeepLearning/blob/main/Images/Day%20-%2010.png)
+
+**Day11 of MachineLearningDeepLearning**
+- Text in files will be in a particular encoding, so we need some mechanism for translating it into Unicode translation into Unicode is called decoding. Conversely, to write out Unicode to a file or a terminal, we need to translate it into a suitable encoding. On my journey of MachineLearningDeepLearning today I learned about Text Processing with Unicode, Regular Expression for Detecting Words Patterns ( Basic Meta Characters, Finding Word Stems). Here, I have presented how to use regular expressions to identify patterns in a snapshot. I hope you will gain some insights and hope you will spend the time learning the topics. Excited about the days ahead ! 
+
+![Images](https://github.com/regmi-saugat/MachineLearning_DeepLearning/blob/main/Images/Day%20-%2011.png)
