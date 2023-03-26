@@ -60,3 +60,10 @@ I hope you will gain some insights and hope you will also spend time learning th
 - Text in files will be in a particular encoding, so we need some mechanism for translating it into Unicode translation into Unicode is called decoding. Conversely, to write out Unicode to a file or a terminal, we need to translate it into a suitable encoding. On my journey of MachineLearningDeepLearning today I learned about Text Processing with Unicode, Regular Expression for Detecting Words Patterns ( Basic Meta Characters, Finding Word Stems). Here, I have presented how to use regular expressions to identify patterns in a snapshot. I hope you will gain some insights and hope you will spend the time learning the topics. Excited about the days ahead ! 
 
 ![Images](https://github.com/regmi-saugat/MachineLearning_DeepLearning/blob/main/Images/Day%20-%2011.png)
+
+**Day12 of MachineLearningDeepLearning**
+- **Tokenization** is the segmentation of a text into basic units or tokens such as words and punctuation. Tokenization based on whitespace is inadequate for many applications because it bundles punctuation together with words. NLTK provides an off-the-shelf tokenizer `nltk.word_tokenize()`.
+- **Lemmatization** is a process that maps the various forms of a word (such as appeared, appears) to the canonical or citation form of the word, also known as the lexeme or lemma (e.g., appear).
+-  Regular expressions are a powerful and flexible method of specifying patterns. On my journey of MachineLearningDeepLearning, Today I continued exploring Reular Expression like Extracting Word Pieces, Finding Word Stems, Searching Tokenized Text, Normalizing Text (Stemming and Lemmatization). Also, I read about Tokenization i.e. is an instance of a more general problem of segmentation. Here, I have presented the implementaion of Tokenization, Stemming, and more in the below snapshot. I hope you will gain some insights and hope you will spend the time learning the topics. Excited about the days ahead ! 
+
+![Images](https://github.com/regmi-saugat/MachineLearning_DeepLearning/blob/main/Images/Day%20-%2012.png)
