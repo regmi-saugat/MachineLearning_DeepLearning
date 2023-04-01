@@ -94,3 +94,19 @@ I hope you will gain some insights and hope you will also spend time learning th
 - **Feature Engineering:** Feature engineering, also known as feature extraction, encompasses a variety of techniques aimed at achieving this objective. The aim of this process is to transform the textual attributes into a numerical vector that can be comprehended by machine learning algorithms. The two different approaches taken in practise for feature engineering in a) a classical NLP and traditional ML pipeline and b) a DL pipeline. On my journey of MachineLearningDeepLearning, Today I completed reading the chapter 2 from the book **Practical Natural Language Processing** where i learned about word tokenization, stemming and lemmatization, Code mixing and transliteration. Also explored feature engineering for classical NLP and Deep Learning Based NLP. Here, I have presented the implementation of word tokenization, removal of stop words and digits, and few more. I hope you will gain some insights and hope you will spend time learning the topics. Excited about the days ahead!
 
 ![Images](https://github.com/regmi-saugat/MachineLearning_DeepLearning/blob/main/Images/Day%20-%2016.png)
+
+**Day17 of MachineLearningDeepLearning**
+- **Text Classification:** Text classification is the task of assigning one or more categories to a given piece of text from a larger set of possible categories.It can be used to organize, structure, and categorize text data from various sources, such as emails, documents, social media, etc.. Some common applications of text classification are sentiment analysis, topic labeling, spam detection, and intent detection. On my journey of MachineLearningDeepLearning, Today I learned about The Pipeline for Building Text Classifications Systems. Here, I have presented the implementation of Text Classification in Economic News Dataset and applied some pre processing techniques and applied CountVectorizer for transforming text documents into a matrix of token and implemented Naive Bayes, Logistic Regression and Support Vector Machines algorithm in the given snapshot.
+    
+      One typically follows these steps when building a text classification system:
+      1. Collect or create a labeled dataset suitable for the task.
+      2. Split the dataset into two (training and test) or three parts: training, validation
+      (i.e., development), and test sets, then decide on evaluation metric(s).
+      3. Transform raw text into feature vectors.
+      4. Train a classifier using the feature vectors and the corresponding labels from the
+      training set.
+      5. Using the evaluation metric(s) from Step 2, benchmark the model performance
+      on the test set.
+      6. Deploy the model to serve the real-world use case and monitor its performance.
+
+![Images](https://github.com/regmi-saugat/MachineLearning_DeepLearning/blob/main/Images/Day%20-%2017.png)
