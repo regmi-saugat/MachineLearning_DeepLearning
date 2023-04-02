@@ -110,3 +110,7 @@ I hope you will gain some insights and hope you will also spend time learning th
       6. Deploy the model to serve the real-world use case and monitor its performance.
 
 ![Images](https://github.com/regmi-saugat/MachineLearning_DeepLearning/blob/main/Images/Day%20-%2017.png)
+
+**Day18 of MachineLearningDeepLearning**
+- **Information Extraction:** Information Extraction refers to the NLP task of extracting relevant information from text documents. It is used in a wide range of real-world applications, from news articles to social media, and even receipts. The overarching goal of IE is to extract ‘knowledge’ from the text, and each of these tasks provides different information to do that. IE tasks require deeper NLP pre-processing followed by models developed for those specific tasks. IE tasks are typically evaluated in terms of precision, recall, and F1 scores using standard evaluation sets. Today, as I continue my journey of MachineLearningDeep Learning, I explored into the topic of Information Extraction.
+![Images](https://github.com/regmi-saugat/MachineLearning_DeepLearning/blob/main/Images/Day%20-%2018.png)
