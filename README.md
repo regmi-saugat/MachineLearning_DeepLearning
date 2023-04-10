@@ -7,6 +7,10 @@
 | 1. [**Natural Language Processing with Python**](https://www.nltk.org/book/) | :white_check_mark: | 
 | 2. [**Practical Natural Language Processing**](https://www.practicalnlp.ai/) | |
 
+| Projects and Notebooks |
+| ---------------------- |
+| 1. [**Named Entity Recognition using spaCy**](https://github.com/regmi-saugat/NaturalLanguageProcessing/tree/main/Named%20Entity%20Recognition) | 
+
 ---------
 
 **Day1 of MachineLearningDeepLearning**
