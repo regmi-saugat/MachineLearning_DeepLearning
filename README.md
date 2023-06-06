@@ -127,3 +127,9 @@ I hope you will gain some insights and hope you will also spend time learning th
 - **Named Entity Recognition:** Named Entity Recognition is a sub-task of information extraction. It deals with finding and classifying named entities mentioned in unstructured text. These entities are classified into predefined categories such as person names, organizations, locations, medical codes, time expressions, quantities, monetary, values, percentages.  NER is used in a variety of applications, such as information retrieval, question answering, and text summarization, among others. On my journey of Machine Learning and Deep Learning, Today I learned about Named Entity Recognition with spaCy using Python and Language Processing Pipelines using spaCy. I have presented the implementation of Named Entity Recognition in document using spacy large model in the below snapshot. I hope you will gain some insights and hope you will spend time learning the topics. Excited about the days ahead!
 
 ![Images](https://github.com/regmi-saugat/MachineLearning_DeepLearning/blob/main/Images/Day%20-%2019.png)
+
+
+**Day20 of MachineLearningDeepLearning**
+- **Topic Modeling:** Topic modeling is a technique that’s used to address the problem of finding latent topics in a large collection of documents. It involves identifying the underlying themes or concepts that pervade a collection of text and grouping them into categories. This can be useful for tasks like document classification, information retrieval, and recommendation systems. Today, I learned about Topic Modeling, Single Value Decomposition, Non-negative Matrix Factorization, Stemming, and Lemmatization. I have presented the implementation of Topic Modeling below in the snapshot. I hope you will gain some insights and hope you will spend time learning the topics. Excited about the days ahead. 
+ 
+![Images](https://github.com/regmi-saugat/MachineLearning_DeepLearning/blob/main/Images/Day%20-%2020.png)
