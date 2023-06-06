@@ -6,6 +6,7 @@
 | ----- | -----|
 | 1. [**Natural Language Processing with Python**](https://www.nltk.org/book/) | :white_check_mark: | 
 | 2. [**Practical Natural Language Processing**](https://www.practicalnlp.ai/) | |
+| 3. [**Fast AI NLP Course**](https://www.fast.ai/posts/2019-07-08-fastai-nlp.html) | |
 
 | Projects and Notebooks |
 | ---------------------- |
